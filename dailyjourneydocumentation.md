@@ -8,3 +8,6 @@ multiple devices to test on a local Network I found a way out yesterday but coul
 
 28/Dec/24
   So I want to try my best and finish this today, I was able to see something that might be of great help to me in doing this.
+
+31/Dec/24
+  Today couldn't do much because my laptop charger has spoilt, hoping to get a new one after the new year celebration 
