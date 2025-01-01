@@ -11,3 +11,6 @@ multiple devices to test on a local Network I found a way out yesterday but coul
 
 31/Dec/24
   Today couldn't do much because my laptop charger has spoilt, hoping to get a new one after the new year celebration 
+
+1/Jan/25
+  Just found out today that you can use wine to run windows apps on linux
