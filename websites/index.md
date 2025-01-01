@@ -8,11 +8,11 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+There should be whitespace between paragraphs. We recommend that you include a README, or a file with information about your project.
 
 # Welcome to My Cybersecurity Journey!
 
-Hi, I'm Adeyinka! I'm passionate about cybersecurity and ethical hacking. I'm currently working on improving my penetration testing skills and learning about networking and security tools. I aim to contribute to a safer internet and help organizations protect their systems. Feel free to explore my projects and learn more about my journey!
+Hi, I'm Adeyinka! I'm passionate about cybersecurity and ethical hacking. I'm working on improving my penetration testing skills and learning about networking and security tools. I aim to contribute to a safer internet and help organizations protect their systems. Feel free to explore my projects and learn more about my journey!
 
 ## EDUCATION
 
