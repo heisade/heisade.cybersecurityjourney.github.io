@@ -14,3 +14,6 @@ multiple devices to test on a local Network I found a way out yesterday but coul
 
 1/Jan/25
   Just found out today that you can use wine to run windows apps on linux
+
+2/Jan/25
+  Didn't do anything today, my laptop charger was giving me more problems.
