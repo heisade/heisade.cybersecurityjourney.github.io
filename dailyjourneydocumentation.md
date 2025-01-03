@@ -17,3 +17,6 @@ multiple devices to test on a local Network I found a way out yesterday but coul
 
 2/Jan/25
   Didn't do anything today, my laptop charger was giving me more problems.
+
+3/Jan/25
+  Didn't do anything today because I went out today.
