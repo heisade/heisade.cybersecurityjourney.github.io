@@ -30,8 +30,20 @@ Then I checked if the site was running (http://localhost:3000)
 # RESUTS
 
 # 1. Identify open ports
-So for this, I will be using Nmap to scan for open ports.
-I scanned it and it was the only port 3000 that was open which is the port that was hosting the OWASP Juice Shop server.
+So for this, I will use Nmap to scan for open ports.
+I scanned it and it was the only open port 3000, which is the port hosting the OWASP Juice Shop server.
 
 # 2. SQL Injection
-So I'll be using Burp Suite to run this attack on the website.
+So I'll use Burp Suite to run this attack on the website.
+
+Ok so I can see all the missions on the OWASP Juice site and I would love to do all
+
+## MISSION 1: You won't find a link to it in the navigation or sidebar. Finding the Score Board is itself one of the hacking challenges.
+  This mission was easy because all I did was inspect the site and analyze the structure of the web page and I was able to score 
+board page, all I had to do was add score-board to the existing link and I got there 'http://localhost:3000/#/score-board' and that
+was all.
+  Over here I can see all the web penetration missions.
+
+
+
+
