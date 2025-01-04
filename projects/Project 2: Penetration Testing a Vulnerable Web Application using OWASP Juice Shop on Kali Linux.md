@@ -46,6 +46,7 @@ was all.
 
 
 ## MISSION 2: DOM XSS
+## ATTACK TYPE: XSS
 ## OBJECTIVE: 
 Perform a DOM XSS attack
 
@@ -63,6 +64,7 @@ DANGERS:
 3. Redirecting users to malicious websites
 
 ## MISSION 3: BONUS PAYLOAD
+## ATTACK TPYE: XSS
 ## OBJECTIVE: 
 Perform another DOM XSS attack
 
@@ -76,3 +78,11 @@ OUTCOME:
         width="100%" height="152" 
         frameBorder="0" allowfullscreen="" 
         allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+
+## MISSION 4: BULLY CHATBOT
+## ATTACK TYPE: MISCELLANEOUS
+## OBJECTIVE:
+Receive a coupon code from the support chatbot.
+
+So what I did here was that i created an account so I could get access to the chatbot. Ok from what I'm seeing, I have to spam the chatbot to get the coupon. I created a Python script to run this task for me so I could just automate it, but somehow I'm running into this problem, tried fixing it yesterday and it affected my OS, so prevent time wastage, I'm just going to upload the script but it works.
