@@ -11,7 +11,7 @@ OSWAP:
   sudo systemctl status docker
   sudo docker pull bkimminich/juice-shop
 
-I also had to ensure port 3000 was opened and not blocked by the firewall that i enabled from the last project
+I also had to ensure port 3000 was opened and not blocked by the firewall that I enabled from the last project
   sudo ufw allow 3000
   Now port 3000 is allowed and working.
 
@@ -45,5 +45,34 @@ was all.
   Over here I can see all the web penetration missions.
 
 
+## MISSION 2: DOM XSS
+## OBJECTIVE: 
+Perform a DOM XSS attack
 
+CODE USED:
+ <iframe src="javascript:alert(`xss`)">
 
+OUTCOME:
+1. A small popup (alert box) appeared with the text 'xss'
+
+  So this specific attack is harmless but becomes very dangerous when a hacker injects malicious javascript code into the webpage. This shows the website is vulnerable to cross-site scripting(XSS) 
+
+DANGERS:
+1. Stealing cookies(session hijacking)
+2. logging keystrokes
+3. Redirecting users to malicious websites
+
+## MISSION 3: BONUS PAYLOAD
+## OBJECTIVE: 
+Perform another DOM XSS attack
+
+CODE USED:
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/771984076&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
+OUTCOME:
+  A music song started playing on the website, which I found very funny and weird because this is new to me. I'm testing the payload and adjusting it so it can play a song I want to play.
+  Ok, so I did it and played a song I wanted to play. I played TV Off by Kendrick Lamar, this was the code I used for the attack: <iframe style="border-radius:12px" 
+        src="https://open.spotify.com/embed/track/0aB0v4027ukVziUGwVGYpG?utm_source=generator" 
+        width="100%" height="152" 
+        frameBorder="0" allowfullscreen="" 
+        allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
