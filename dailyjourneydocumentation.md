@@ -10,13 +10,17 @@ multiple devices to test on a local Network I found a way out yesterday but coul
   So I want to try my best and finish this today, I was able to see something that might be of great help to me in doing this.
 
 31/Dec/24
-  Today couldn't do much because my laptop charger has spoilt, hoping to get a new one after the new year celebration 
+  Today couldn't do much because my laptop charger has spoilt, hoping to get a new one after the New Year celebration 
 
 1/Jan/25
-  Just found out today that you can use wine to run windows apps on linux
+  Just found out today that you can use Wine to run Windows apps on Linux
 
 2/Jan/25
   Didn't do anything today, my laptop charger was giving me more problems.
 
 3/Jan/25
   Didn't do anything today because I went out today.
+
+4/Jan/25
+  Did a lot of work today from 12 am to 4 am but i didn't commit changes of the work i did because my system crashed. Just 
+finish fixing it.
