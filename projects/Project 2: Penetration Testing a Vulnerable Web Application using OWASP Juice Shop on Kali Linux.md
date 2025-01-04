@@ -85,4 +85,19 @@ OUTCOME:
 ## OBJECTIVE:
 Receive a coupon code from the support chatbot.
 
-So what I did here was that i created an account so I could get access to the chatbot. Ok from what I'm seeing, I have to spam the chatbot to get the coupon. I created a Python script to run this task for me so I could just automate it, but somehow I'm running into this problem, tried fixing it yesterday and it affected my OS, so prevent time wastage, I'm just going to upload the script but it works.
+So what I did here was that i created an account so I could get access to the chatbot. Ok from what I'm seeing, I have to spam the chatbot to get the coupon. I created a Python script to run this task for me so I could just automate it, but somehow I'm running into this problem, tried fixing it yesterday and it affected my OS, to prevent time wastage, I'm just going to upload the script but it works.
+  So after spamming 'coupon please' to the chatbot, it eventually told me the coupon code which was 'n<Mich7ZKp'. Did this on my Chrome browser after Firefox gave me a lot of issues.
+
+## MISSION 5: PRIVACY POLICY
+## ATTACK TYPE: MISCELLANEOUS
+## OBJECTIVE:
+Read our privacy policy.
+
+Ok, so I did this mission and I think it was just for me to find the privacy policy page.
+
+## MISSION 6: CONFIDENTIAL DOCUMENT
+## ATTACK TYPE: SENSITIVE DATA EXPOSURE
+## OBJECTIVE:
+Access a confidential document.
+
+
