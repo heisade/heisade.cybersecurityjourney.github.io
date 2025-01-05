@@ -100,4 +100,11 @@ Ok, so I did this mission and I think it was just for me to find the privacy pol
 ## OBJECTIVE:
 Access a confidential document.
 
+  So I will be using a tool called dirb to scan the site. So dirb is a web content scanner. It looks for existing or hidden web objects by launching a dictionary attack on a web server and analyzing the responses. I chose to use dirb and not Burp Suite because dirb is faster and will do the attack faster.
+
+COMMAND USED:
+dirb http://localhost:3000/
+
+Found a list of subdomains but I was able to get the confidential file at 'http://localhost:3000/ftp'
+
 
