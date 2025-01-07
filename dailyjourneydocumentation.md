@@ -24,3 +24,6 @@ multiple devices to test on a local Network I found a way out yesterday but coul
 4/Jan/25
   Did a lot of work today from 12 am to 4 am but i didn't commit changes of the work i did because my system crashed. Just 
 finish fixing it.
+
+7/Jan/25
+  Couldn't do anything today because of NYSC registration
