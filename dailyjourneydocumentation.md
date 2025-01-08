@@ -10,20 +10,23 @@ multiple devices to test on a local Network I found a way out yesterday but coul
   So I want to try my best and finish this today, I was able to see something that might be of great help to me in doing this.
 
 31/Dec/24
-  Today couldn't do much because my laptop charger has spoilt, hoping to get a new one after the New Year celebration 
+  Today I couldn't do much because my laptop charger has spoilt, hoping to get a new one after the New Year celebration 
 
 1/Jan/25
   Just found out today that you can use Wine to run Windows apps on Linux
 
 2/Jan/25
-  Didn't do anything today, my laptop charger was giving me more problems.
+  I didn't do anything today, my laptop charger was giving me more problems.
 
 3/Jan/25
-  Didn't do anything today because I went out today.
+  I didn't do anything today because I went out today.
 
 4/Jan/25
-  Did a lot of work today from 12 am to 4 am but i didn't commit changes of the work i did because my system crashed. Just 
+  I did a lot of work today from 12 am to 4 am but I didn't commit changes to the work I did because my system crashed. Just 
 finish fixing it.
 
 7/Jan/25
-  Couldn't do anything today because of NYSC registration
+  I couldn't do anything today because of NYSC registration.
+
+8/Jan/25
+  I still couldn't do anything because of my NYSC registration.
