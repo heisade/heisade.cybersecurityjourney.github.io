@@ -4,10 +4,10 @@ multiple devices to test on a local Network I found a way out yesterday but coul
   At the end of today, I accomplished a lot in fixing the GNS3. However, I'm still facing many issues, but I'm not backing down at all.
 
 27/Dec/24
-  Ok so I plan on finishing fixing the GNS3 today, but I'm going out later today so it might be tomorrow I might be finishing it. So at the end of the day, I didn't accomplish anything. Couldn't even go out today for some reason which is why I have to work harder so I can provide for little things that prevented me from doing some things today
+  Ok so I plan on finishing fixing the GNS3 today, but I'm going out later today so tomorrow I might be finishing it. So at the end of the day, I didn't accomplish anything. I couldn't even go out today for some reason which is why I have to work harder so I can provide for little things that prevented me from doing some things today
 
 28/Dec/24
-  So I want to try my best and finish this today, I was able to see something that might be of great help to me in doing this.
+  So I want to finish this today, I was able to see something that might be of great help to me in doing this.
 
 31/Dec/24
   Today I couldn't do much because my laptop charger has spoilt, hoping to get a new one after the New Year celebration 
@@ -30,3 +30,6 @@ finish fixing it.
 
 8/Jan/25
   I still couldn't do anything because of my NYSC registration.
+
+9/Jan/25
+  I'm still working on my registration.
