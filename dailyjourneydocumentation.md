@@ -33,3 +33,6 @@ finish fixing it.
 
 9/Jan/25
   I'm still working on my registration.
+
+10/Jan/25
+  I couldn't do much today but today was a good day, completed my NYSC registration just in time before the portal closed and i also got a new PC and now i can start pushing more for my pentesting career with a better tool.
