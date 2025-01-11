@@ -36,3 +36,6 @@ finish fixing it.
 
 10/Jan/25
   I couldn't do much today but today was a good day, completed my NYSC registration just in time before the portal closed and i also got a new PC and now i can start pushing more for my pentesting career with a better tool.
+
+11/Jan/25
+  I couldn't do any project today because i was setting up my PC and plus i don't have a kali here.
