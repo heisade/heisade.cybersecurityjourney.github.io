@@ -39,3 +39,6 @@ finish fixing it.
 
 11/Jan/25
   I couldn't do any project today because i was setting up my PC and plus i don't have a kali here.
+
+13/Jan/25
+  Tried installing kali as my default OS but couldn't. Now i'm waiting to increase my ROM so i can have more space to do everything, but for now i'll just focus on sharpening my python skills.
