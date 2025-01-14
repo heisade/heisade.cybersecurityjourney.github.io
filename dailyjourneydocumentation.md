@@ -42,3 +42,6 @@ finish fixing it.
 
 13/Jan/25
   Tried installing kali as my default OS but couldn't. Now i'm waiting to increase my ROM so i can have more space to do everything, but for now i'll just focus on sharpening my python skills.
+
+14/Jan/25
+  Already gotten a python crash course to do a revision on python. From there i will start building python projects.
