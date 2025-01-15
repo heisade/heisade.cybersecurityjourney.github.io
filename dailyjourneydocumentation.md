@@ -45,3 +45,6 @@ finish fixing it.
 
 14/Jan/25
   Already gotten a python crash course to do a revision on python. From there i will start building python projects.
+
+15/Jan/25
+  I've started the python crash course.
