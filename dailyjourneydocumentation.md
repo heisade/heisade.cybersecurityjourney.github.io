@@ -35,16 +35,19 @@ finish fixing it.
   I'm still working on my registration.
 
 10/Jan/25
-  I couldn't do much today but today was a good day, completed my NYSC registration just in time before the portal closed and i also got a new PC and now i can start pushing more for my pentesting career with a better tool.
+  I couldn't do much today but today was a good day, completed my NYSC registration just in time before the portal closed and I also got a new PC and now I can start pushing more for my pentesting career with a better tool.
 
 11/Jan/25
-  I couldn't do any project today because i was setting up my PC and plus i don't have a kali here.
+  I couldn't do any project today because I was setting up my PC and I don't have a Kali here.
 
 13/Jan/25
-  Tried installing kali as my default OS but couldn't. Now i'm waiting to increase my ROM so i can have more space to do everything, but for now i'll just focus on sharpening my python skills.
+  Tried installing Kali as my default OS but couldn't. Now I'm waiting to increase my ROM so I can have more space to do everything, but for now, I'll just focus on sharpening my Python skills.
 
 14/Jan/25
-  Already gotten a python crash course to do a revision on python. From there i will start building python projects.
+  Already gotten a Python crash course to revise Python. From there I will start building Python projects.
 
 15/Jan/25
-  I've started the python crash course.
+  I've started the Python crash course.
+
+16/Jan/25
+  No internet today.
