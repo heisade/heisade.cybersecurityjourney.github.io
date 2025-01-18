@@ -34,16 +34,16 @@ finish fixing it.
   I'm still working on my registration.
 
 10/Jan/25
-  I couldn't do much today, but it was a good day. I completed my NYSC registration just in time before the portal closed, and I also got a new PC. Now, with a better tool, I can start pushing more for my pen-testing career.
+  I couldn't do much today, but it was a good day. I completed my NYSC registration just in time before the portal closed, and I also got a new PC. Now, I can start pushing more for my pen-testing career with a better tool.
 
 11/Jan/25
-  I couldn't do any project today because I was setting up my PC and I don't have a Kali here.
+  I couldn't do any project today because I was setting up my PC and don't have a Kali here.
 
 13/Jan/25
-  I tried installing Kali as my default OS but couldn't. Now, I'm waiting to increase my ROM so I have more space to do everything, but for now, I'll just focus on sharpening my Python skills.
+  I tried installing Kali as my default OS but couldn't. Now, I'm waiting to increase my ROM so I have more space to do everything, but I'll focus on sharpening my Python skills for now.
 
 14/Jan/25
-  I have already gotten a Python crash course to revise Python. From there I will start building Python projects.
+  I have already taken a Python crash course to revise. From there, I will start building Python projects.
 
 15/Jan/25
   I've started the Python crash course.
@@ -52,4 +52,7 @@ finish fixing it.
   There is no internet today.
 
 17/Jan/25
-  Today i did some python test. I asked chatgpt to give me some questions on the things i've learnt and i did well getting 90%
+  Today I did some Python tests. I asked ChatGPT to give me some questions on the things I've learned and I did well getting 90%
+
+18/Jan/25
+  Today I did more Python tests. I asked ChatGPT for more tests. I prefer applying to just learning alone.
