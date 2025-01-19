@@ -6,7 +6,7 @@
   Ok so I plan on finishing fixing the GNS3 today, but I'm going out later today so tomorrow I might be finishing it. So at the end of the day, I didn't accomplish anything. I couldn't even go out today for some reason which is why I have to work harder so I can provide for little things that prevented me from doing some things today
 
 28/Dec/24
-  So I want to finish this today, I was able to see something that might be of great help to me in doing this.
+  So I want to finish this today, I was able to see something that might be of great help to me.
 
 31/Dec/24
   Today I couldn't do much because my laptop charger has spoilt, hoping to get a new one after the New Year celebration 
@@ -15,13 +15,13 @@
   Just found out today that you can use Wine to run Windows apps on Linux
 
 2/Jan/25
-  I didn't do anything today, my laptop charger was giving me more problems.
+  I didn't do anything today, my laptop charger gave me more problems.
 
 3/Jan/25
   I didn't do anything today because I went out today.
 
 4/Jan/25
-  I did a lot of work today from 12 am to 4 am but I didn't commit changes to the work I did because my system crashed. Just 
+  I did a lot of work today from 12 am to 4 am but didn't commit changes to my work because my system crashed. Just 
 finish fixing it.
 
 7/Jan/25
@@ -34,10 +34,10 @@ finish fixing it.
   I'm still working on my registration.
 
 10/Jan/25
-  I couldn't do much today, but it was a good day. I completed my NYSC registration just in time before the portal closed, and I also got a new PC. Now, I can start pushing more for my pen-testing career with a better tool.
+  I couldn't do much today, but it was a good day. I completed my NYSC registration just in time before the portal closed, and I also got a new PC. Now, with a better tool, I can start pushing more for my pen-testing career.
 
 11/Jan/25
-  I couldn't do any project today because I was setting up my PC and don't have a Kali here.
+  I couldn't do any projects today because I was setting up my PC and didn't have a Kali.
 
 13/Jan/25
   I tried installing Kali as my default OS but couldn't. Now, I'm waiting to increase my ROM so I have more space to do everything, but I'll focus on sharpening my Python skills for now.
@@ -56,3 +56,6 @@ finish fixing it.
 
 18/Jan/25
   Today I did more Python tests. I asked ChatGPT for more tests. I prefer applying to just learning alone.
+
+19/Jan/25
+  Today instead of just doing a test I decided to build something and take the day off. I built a calculator and over time I'll start adding more features to the calculator.
