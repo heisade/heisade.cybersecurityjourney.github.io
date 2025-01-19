@@ -34,7 +34,7 @@ finish fixing it.
   I'm still working on my registration.
 
 10/Jan/25
-  I couldn't do much today, but it was a good day. I completed my NYSC registration just in time before the portal closed, and I also got a new PC. Now, with a better tool, I can start pushing more for my pen-testing career.
+  I couldn't do much today, but it was a good day. I completed my NYSC registration just in time before the portal closed, and I also got a new PC. Now, I can start pushing more for my pen-testing career with a better tool.
 
 11/Jan/25
   I couldn't do any projects today because I was setting up my PC and didn't have a Kali.
@@ -58,4 +58,4 @@ finish fixing it.
   Today I did more Python tests. I asked ChatGPT for more tests. I prefer applying to just learning alone.
 
 19/Jan/25
-  Today instead of just doing a test I decided to build something and take the day off. I built a calculator and over time I'll start adding more features to the calculator.
+  Today instead of just doing a test I decided to build something and take the day off. I built a calculator and over time I'll start adding more features to the calculator. I later updated the calculator code to add more features to it.
