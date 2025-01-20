@@ -58,7 +58,10 @@ finish fixing it.
   Today I did more Python tests. I asked ChatGPT for more tests. I prefer applying to just learning alone.
 
 19/Jan/25
-  Today instead of just doing a test I decided to build something and take the day off. I built a calculator and over time I'll start adding more features to the calculator. I later updated the calculator code to add more features to it. I also created a password strength checker so it can be added to my cyber security Python projects.
+  Today, instead of just doing a test, I decided to build something and take the day off. I built a calculator, and over time, I'll start adding more features to it. I later updated the calculator code to add more features. I also created a password strength checker to be added to my cyber security Python projects.
 
 20/Jan/25
-  Today I did some research about blockchain security engineering and Smart contract auditing and I think I'm in love because damnnnnnnn.....I'll keep you guys updated about the journey.
+  Today, I did some research about blockchain security engineering and Smart contract auditing, and I think I'm in love because damn. I'll keep you guys updated about the journey.
+
+21/Jan/25
+  So it's 12:30 am and I was working on some little python scripts. I started yesterday so that means I wasn't yeah I worked yesterday and today lol.
