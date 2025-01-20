@@ -59,3 +59,6 @@ finish fixing it.
 
 19/Jan/25
   Today instead of just doing a test I decided to build something and take the day off. I built a calculator and over time I'll start adding more features to the calculator. I later updated the calculator code to add more features to it. I also created a password strength checker so it can be added to my cyber security Python projects.
+
+20/Jan/25
+  Today I did some research about blockchain security engineering and Smart contract auditing and I think I'm in love because damnnnnnnn.....I'll keep you guys updated about the journey.
