@@ -64,4 +64,4 @@ finish fixing it.
   Today, I did some research about blockchain security engineering and Smart contract auditing, and I think I'm in love because damn. I'll keep you guys updated about the journey.
 
 21/Jan/25
-  So it's 12:30 am and I was working on some little python scripts. I started yesterday so that means I wasn't yeah I worked yesterday and today lol.
+  So it's 12:30 am and I was working on some little Python scripts. I started yesterday, so that means I wasn't yeah I worked yesterday and today, lol. It's 11 pm over here and I did more Python scripts. Writing big projects very soon.
