@@ -6,7 +6,7 @@
   Ok so I plan on finishing fixing the GNS3 today, but I'm going out later today so tomorrow I might be finishing it. So at the end of the day, I didn't accomplish anything. I couldn't even go out today for some reason which is why I have to work harder so I can provide for little things that prevented me from doing some things today
 
 28/Dec/24
-  So I want to finish this today, I was able to see something that might be of great help to me.
+  So I want to finish this today, I saw something that might be of great help to me.
 
 31/Dec/24
   Today I couldn't do much because my laptop charger has spoilt, hoping to get a new one after the New Year celebration 
@@ -34,7 +34,7 @@ finish fixing it.
   I'm still working on my registration.
 
 10/Jan/25
-  I couldn't do much today, but it was a good day. I completed my NYSC registration just in time before the portal closed, and I also got a new PC. Now, I can start pushing more for my pen-testing career with a better tool.
+  I couldn't do much today, it was a good day. I completed my NYSC registration just in time before the portal closed, and I also got a new PC. Now, I can start pushing more for my pen-testing career with a better tool.
 
 11/Jan/25
   I couldn't do any projects today because I was setting up my PC and didn't have a Kali.
@@ -58,10 +58,13 @@ finish fixing it.
   Today I did more Python tests. I asked ChatGPT for more tests. I prefer applying to just learning alone.
 
 19/Jan/25
-  Today, instead of just doing a test, I decided to build something and take the day off. I built a calculator, and over time, I'll start adding more features to it. I later updated the calculator code to add more features. I also created a password strength checker to be added to my cyber security Python projects.
+  Instead of just doing a test today, I decided to build something and take the day off. I built a calculator, and over time, I'll start adding more features. I later updated the calculator code to add more features. I also created a password strength checker to be added to my cyber security Python projects.
 
 20/Jan/25
   Today, I did some research about blockchain security engineering and Smart contract auditing, and I think I'm in love because damn. I'll keep you guys updated about the journey.
 
 21/Jan/25
   So it's 12:30 am and I was working on some little Python scripts. I started yesterday, so that means I wasn't yeah I worked yesterday and today, lol. It's 11 pm over here and I did more Python scripts. Writing big projects very soon.
+
+22/Jan/25
+  I did more revising on my Python, among all the things I forgot, for loop, and while loop gave me a serious problem today but I've gotten a hang of it.
