@@ -68,3 +68,6 @@ finish fixing it.
 
 22/Jan/25
   I did more revising on my Python, among all the things I forgot, for loop, and while loop gave me a serious problem today but I've gotten a hang of it.
+
+23/Jan/25
+  My chrome browsers might be bugged cause i can access github but the website isn't responding well on my chrome but it is on other browsers. Now back to what i did today, i did the usuals, learning python and spoke about web3 and blockchain security to some people to get ideas from them because they are on the web 3 space.
