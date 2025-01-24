@@ -1,5 +1,5 @@
-title: "My Jekyll Site"
+title: Hacker theme
 description: Hacker is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-primer
+theme: jekyll-theme-hacker
