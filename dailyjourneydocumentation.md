@@ -58,16 +58,22 @@ finish fixing it.
   Today I did more Python tests. I asked ChatGPT for more tests. I prefer applying to just learning alone.
 
 19/Jan/25
-  Instead of just doing a test today, I decided to build something and take the day off. I built a calculator, and over time, I'll start adding more features. I later updated the calculator code to add more features. I also created a password strength checker to be added to my cyber security Python projects.
+  Instead of just doing a test today, I built something and took the day off. I built a calculator, and I'll start adding more features over time. I later updated the calculator code to add more features. I also created a password strength checker to be added to my cyber security Python projects.
 
 20/Jan/25
   Today, I did some research about blockchain security engineering and Smart contract auditing, and I think I'm in love because damn. I'll keep you guys updated about the journey.
 
 21/Jan/25
-  So it's 12:30 am and I was working on some little Python scripts. I started yesterday, so that means I wasn't yeah I worked yesterday and today, lol. It's 11 pm over here and I did more Python scripts. Writing big projects very soon.
+  So it's 12:30 am and I was working on some Python scripts. I started yesterday, so that means I wasn't yeah I worked yesterday and today, lol. It's 11 pm over here and I did more Python scripts. Writing big projects very soon.
 
 22/Jan/25
-  I did more revising on my Python, among all the things I forgot, for loop, and while loop gave me a serious problem today but I've gotten a hang of it.
+  I did more revising on my Python. Among all the things I forgot, the for loop and while loop gave me a serious problem today, but I've gotten a hang of them.
 
 23/Jan/25
-  My chrome browsers might be bugged cause i can access github but the website isn't responding well on my chrome but it is on other browsers. Now back to what i did today, i did the usuals, learning python and spoke about web3 and blockchain security to some people to get ideas from them because they are on the web 3 space.
+  My Chrome browsers might be bugged because I can access Github, but the website doesn't respond well on my Chrome browser, but it does on other browsers. Now, back to what I did today: I did the usual: I learned Python and spoke about Web3 and blockchain security to some people to get ideas from them because they are in the Web3 space.
+
+24/Jan/25
+  
+
+25/Jan/25
+  I tried fixing some codes on leetcode and damn those are some serious problems. I'm gonna try and solve some of them then continue with my learning.
