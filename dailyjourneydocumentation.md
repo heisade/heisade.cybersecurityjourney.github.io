@@ -55,7 +55,7 @@ finish fixing it.
   Today I did some Python tests. I asked ChatGPT to give me some questions on the things I've learned and I did well getting 90%
 
 18/Jan/25
-  Today I did more Python tests. I asked ChatGPT for more tests. I prefer applying to just learning alone.
+  Today, I completed more Python tests, which I requested from ChatGPT. I prefer applying to learning alone.
 
 19/Jan/25
   Instead of just doing a test today, I built something and took the day off. I built a calculator, and I'll start adding more features over time. I later updated the calculator code to add more features. I also created a password strength checker to be added to my cyber security Python projects.
@@ -73,7 +73,7 @@ finish fixing it.
   My Chrome browsers might be bugged because I can access Github, but the website doesn't respond well on my Chrome browser, but it does on other browsers. Now, back to what I did today: I did the usual: I learned Python and spoke about Web3 and blockchain security to some people to get ideas from them because they are in the Web3 space.
 
 24/Jan/25
-  
+  Today, I ran into a problem and found out about Stackoverflow, so I'll be using there to get the solution to my python problems.
 
 25/Jan/25
-  I tried fixing some codes on leetcode and damn those are some serious problems. I'm gonna try and solve some of them then continue with my learning.
+  I tried fixing some codes on leet code and damn those are some serious problems. I'm gonna try and solve some of them then continue with my learning.
