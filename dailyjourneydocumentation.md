@@ -77,3 +77,4 @@ finish fixing it.
 
 25/Jan/25
   I tried fixing some codes on leet code and damn those are some serious problems. I'm gonna try and solve some of them then continue with my learning.
+ Edited my github profile too and all my online profile. Now i want to get back to the python tutorial.
