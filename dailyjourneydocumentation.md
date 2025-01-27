@@ -78,3 +78,6 @@ finish fixing it.
 25/Jan/25
   I tried fixing some codes on leet code and damn those are some serious problems. I'm gonna try and solve some of them then continue with my learning.
  Edited my github profile too and all my online profile. Now i want to get back to the python tutorial.
+
+ 27/Jan/25
+   Missed yesterday because of how busy i was. Did a lot of work and also taught a friend python, the ones i knew. By the time i was done it was after 12 so that was why i missed yesterday.
