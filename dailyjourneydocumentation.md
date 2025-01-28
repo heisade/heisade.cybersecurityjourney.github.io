@@ -81,3 +81,6 @@ finish fixing it.
 
  27/Jan/25
    Missed yesterday because of how busy i was. Did a lot of work and also taught a friend python, the ones i knew. By the time i was done it was after 12 so that was why i missed yesterday.
+
+28/Jan/25
+  Today i watched some python questions and tried to strengthen my weakness. I had some problems but i've been able to fix that. Now i want to rest but i'm downloading something for my PC. So idk....i want to try building a new portfolio website for myself
