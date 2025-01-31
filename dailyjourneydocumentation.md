@@ -84,3 +84,6 @@ finish fixing it.
 
 28/Jan/25
   Today i watched some python questions and tried to strengthen my weakness. I had some problems but i've been able to fix that. Now i want to rest but i'm downloading something for my PC. So idk....i want to try building a new portfolio website for myself
+
+31/Jan/25
+  Noticed a significant drop in productivity and burnout so i stayed off everything for a while. Also stayed off github because if i did login i'm definitely doig something so yeah. I'd be taking a week break though.
