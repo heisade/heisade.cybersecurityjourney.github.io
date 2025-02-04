@@ -73,17 +73,20 @@ finish fixing it.
   My Chrome browsers might be bugged because I can access Github, but the website doesn't respond well on my Chrome browser, but it does on other browsers. Now, back to what I did today: I did the usual: I learned Python and spoke about Web3 and blockchain security to some people to get ideas from them because they are in the Web3 space.
 
 24/Jan/25
-  Today, I ran into a problem and found out about Stackoverflow, so I'll be using there to get the solution to my python problems.
+  Today, I ran into a problem and found out about Stackoverflow, so I'll be using there to get the solution to my Python problems.
 
 25/Jan/25
-  I tried fixing some codes on leet code and damn those are some serious problems. I'm gonna try and solve some of them then continue with my learning.
- Edited my github profile too and all my online profile. Now i want to get back to the python tutorial.
+  I tried fixing some codes on leet code and damn those are some serious problems. I will try and solve some of them and then continue learning.
+ I also edited my GitHub profile and all my online profiles. Now, I want to return to the Python tutorial.
 
  27/Jan/25
-   Missed yesterday because of how busy i was. Did a lot of work and also taught a friend python, the ones i knew. By the time i was done it was after 12 so that was why i missed yesterday.
+   I missed yesterday because I was busy. I did a lot of work and taught a friend Python, the ones I knew. By the time I was done, it was after 12, so that was why I missed yesterday.
 
 28/Jan/25
-  Today i watched some python questions and tried to strengthen my weakness. I had some problems but i've been able to fix that. Now i want to rest but i'm downloading something for my PC. So idk....i want to try building a new portfolio website for myself
+  Today I watched some Python questions and tried to strengthen my weaknesses. I had some problems but I've been able to fix that. Now I want to rest but I'm downloading something for my PC. So idk...I want to try building a new portfolio website for myself
 
 31/Jan/25
-  Noticed a significant drop in productivity and burnout so i stayed off everything for a while. Also stayed off github because if i did login i'm definitely doig something so yeah. I'd be taking a week break though.
+  Noticed a significant drop in productivity and burnout so I stayed off everything for a while. Also stayed off GitHub because if I did log in I'm doing something so yeah. I'd be taking a week's break though.
+
+4/Feb/25
+  I just did some Python revision, so yeah, there's not much to report today. I just wanted to refresh my memory of Python.
