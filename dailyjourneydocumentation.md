@@ -90,3 +90,6 @@ finish fixing it.
 
 4/Feb/25
   I just did some Python revision, so yeah, there's not much to report today. I just wanted to refresh my memory of Python.
+
+18/Feb/25
+  Didn't give much update for the past 2 weeks but a lot has been achieved. I got 2 different Internship from one started this month and is ending next month, the other is starting next month and is ending in the next one year(both in cybersecurity). So these were big steps for me. On my first week in my first intern, i was given a project to start with and i was supposed to submit a report too, the report was about HTML injection and Cross site scripting. I submitted and it got approved. I've been given another project for week 2 which i'm about to start with.
