@@ -96,3 +96,6 @@ finish fixing it.
 
 20/Feb/25
   So for the second internship, i'm waiting for an interview very soon. Currently working on my week 2 hacktify project and it's tough. Week 2 was about SQL injection and IDOR attacks. Started yesterday but i'm almost done now.
+
+21/Feb/25
+  Took some rest from my cybersecurity week 2 report, locked in so hard that i could smell burn out, i just resumed python and worked on some projects and i feel refreshed for python. So i'd finish my cybersecurity report week 2 tomorrow or next tomorrow.
