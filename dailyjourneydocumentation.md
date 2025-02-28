@@ -99,3 +99,6 @@ finish fixing it.
 
 21/Feb/25
   Took some rest from my cybersecurity week 2 report, locked in so hard that i could smell burn out, i just resumed python and worked on some projects and i feel refreshed for python. So i'd finish my cybersecurity report week 2 tomorrow or next tomorrow.
+
+28/Feb/25
+  Created a python project and i'm done with the python course i was learning which is good news but damn tried building some random projects and i'm so lost but u i have faith and this is the beginning and i felt the same way with ethical hacking but now ethical hacking seems easy so it's step by step.
