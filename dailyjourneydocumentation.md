@@ -102,3 +102,6 @@ finish fixing it.
 
 28/Feb/25
   Created a python project and i'm done with the python course i was learning which is good news but damn tried building some random projects and i'm so lost but u i have faith and this is the beginning and i felt the same way with ethical hacking but now ethical hacking seems easy so it's step by step.
+
+5/Mar/25
+  I uploaded an updated version of my calculator project and uploaded a To Do list python project. So things are moving smoothly for both my python and cybersecurity path. I did my week 3 project and submitted since and for the week 4 we will be doing some CTF, they already sent the demo ctf for us to test ourselves but it was weird learning Web penetration testing but i was facing reverse engineering ctfs, but we face them as they come.
