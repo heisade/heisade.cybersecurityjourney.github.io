@@ -1,7 +1,7 @@
 import requests
 
 # Base URL (change if necessary)
-base_url = "https://lock-web-web.hackatronics.com"
+base_url = "https://test.com"     # Input the URL
 
 # Target endpoint
 check_pin_url = f"{base_url}/check-pin"
