@@ -105,3 +105,6 @@ finish fixing it.
 
 5/Mar/25
   I uploaded an updated version of my calculator project and uploaded a To Do list python project. So things are moving smoothly for both my python and cybersecurity path. I did my week 3 project and submitted since and for the week 4 we will be doing some CTF, they already sent the demo ctf for us to test ourselves but it was weird learning Web penetration testing but i was facing reverse engineering ctfs, but we face them as they come.
+
+10/Mar/25
+  Today is the day i finish my my hacktify internship, i finished all the CTFs which were actually hard and i was able to gain a lot of knowledge, now i'm moving to the next stage and i got aceepted for another internship but this is for a year. I'll be doing a lot over here and it will take me from mid to pro, and also i'll be uploading some python scripts i made.
