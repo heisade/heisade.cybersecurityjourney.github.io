@@ -108,3 +108,6 @@ finish fixing it.
 
 10/Mar/25
   Today is the day i finish my my hacktify internship, i finished all the CTFs which were actually hard and i was able to gain a lot of knowledge, now i'm moving to the next stage and i got aceepted for another internship but this is for a year. I'll be doing a lot over here and it will take me from mid to pro, and also i'll be uploading some python scripts i made.
+
+18/May/25
+  Just recently finished my NYSC 3 weeks camp orientation and it was a fun experience, but it also slowed me on the projects i was working on, Now i was able to install kali on my Windows on VMware so it's on a virtual machine for now, i do plan to upgrade my storage and use the second one for mainly Kali Linux. I will resume my cybersecurity projects as soon as i feel better from all these stress and sickness i'm feeling RN.
