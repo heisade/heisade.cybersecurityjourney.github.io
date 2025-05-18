@@ -12,10 +12,10 @@
 # ⚙️ Environment Setup
 ## INSTALLATION
 ### Docker:
-  sudo apt install docker.io
-  sudo systemctl start docker
-  sudo systemctl enable docker
-  sudo systemctl status docker
+sudo apt install docker.io
+sudo systemctl start docker
+sudo systemctl enable docker
+sudo systemctl status docker
 
 ### OWASP JUICE SHOP DEPLOYMENT
   sudo docker pull bkimminich/juice-shop
