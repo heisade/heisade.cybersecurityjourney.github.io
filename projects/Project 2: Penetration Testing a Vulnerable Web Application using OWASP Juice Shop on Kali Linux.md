@@ -1,25 +1,34 @@
-# TOOLS
-1. KALI LINUX
-2. OSWAP
-3. BURPSUITE
+# 🛡️ Web App Pentesting: OWASP Juice Shop (Docker-Based Lab)
+##🔧 Tools Used
+•Kali Linux
+•OWASP Juice Shop
+•Burp Suite
+•Nmap
+•DIRB Docker
+•
+•UFW (Uncomplicated Firewall)
 
-# INSTALLATION
-OSWAP:
+
+# ⚙️ Environment Setup
+## INSTALLATION
+### Docker:
   sudo apt install docker.io
   sudo systemctl start docker
   sudo systemctl enable docker
   sudo systemctl status docker
+
+### OWASP JUICE SHOP DEPLOYMENT
   sudo docker pull bkimminich/juice-shop
 
 I also had to ensure port 3000 was opened and not blocked by the firewall that I enabled from the last project
   sudo ufw allow 3000
   Now port 3000 is allowed and working.
 
-# RUNNING THE OSWAP JUICE CONTAINER
+### RUNNING THE OSWAP JUICE CONTAINER
   sudo docker run -d -p 3000:3000 bkimminich/juice-shop
 Then I checked if the site was running (http://localhost:3000)
 
-# TASKS
+# TASKS PERFORMED
 1. Identify open ports
 2. SQL injection
 3. Cross-Site Scripting (XSS)
@@ -27,13 +36,13 @@ Then I checked if the site was running (http://localhost:3000)
 5. Directory Traversal
 6. Cross-Site Request Forgery (CSRF)
 
-# RESUTS
+# RESULTS
 
-# 1. Identify open ports
+## 1. Identify open ports
 So for this, I will use Nmap to scan for open ports.
 I scanned it and it was the only open port 3000, which is the port hosting the OWASP Juice Shop server.
 
-# 2. SQL Injection
+## 2. SQL Injection
 So I'll use Burp Suite to run this attack on the website.
 
 Ok so I can see all the missions on the OWASP Juice site and I would love to do all
