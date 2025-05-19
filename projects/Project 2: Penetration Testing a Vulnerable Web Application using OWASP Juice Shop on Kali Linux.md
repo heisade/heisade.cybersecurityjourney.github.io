@@ -120,4 +120,12 @@ Found a list of subdomains but I was able to get the confidential file at 'http:
 
 **OUTCOME:** Located sensitive path 'http://localhost:3000/ftp' containing the document.
 
+## MISSSION 7: ERROR HANDLING
+**TYPE:** SECURITY MISCONFIGURATION
+**OBJECTIVE:** Provoke an error that is neither very gracefully nor consistently handled.
+
+  I randomly did this by visiting the customer feedback page, I visited other pages and touched around but i completed this mission when i visited the customer feedback page.
+
+**OUTCOME:** Was able to trigger an error that isn't consistently handled.
+
 
