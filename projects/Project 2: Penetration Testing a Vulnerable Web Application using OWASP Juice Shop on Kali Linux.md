@@ -124,8 +124,40 @@ Found a list of subdomains but I was able to get the confidential file at 'http:
 **TYPE:** SECURITY MISCONFIGURATION
 **OBJECTIVE:** Provoke an error that is neither very gracefully nor consistently handled.
 
-  I randomly did this by visiting the customer feedback page, I visited other pages and touched around but i completed this mission when i visited the customer feedback page.
+  I completed this mission by navigating to the Customer Feedback page. Although I explored multiple areas of the site, the error was successfully triggered upon visiting that specific page.
 
-**OUTCOME:** Was able to trigger an error that isn't consistently handled.
+**OUTCOME:** An unhandled and inconsistent error response was observed, confirming the vulnerability.
 
 
+## MISSION 8: MASS DISPEL
+**TYPE:** MISCELLANEOUS
+**OBJECTIVE:** Close multiple "Challenge solved" notification in one go.
+
+  This task took a bit of experimentation. I ultimately solved it by selecting all the active notifications and using the keyboard shortcut Shift + X (while the cancel button was highlighted), which cleared all the notifications in one action.
+
+**OUTCOME:**  All "Challenge Solved" notifications were dismissed at once.
+
+
+## MISSION 9: MISSING ENCODING:
+**TYPE:** Improper Input Validation
+**OBJECTIVE:** Retrieve the photo of Bjoern's cat in "melee combat-mode"
+
+  During this mission, I noticed a broken image on the photo wall. Initially, I checked external sources like Twitter to confirm the issue wasn’t external. Then, using the browser’s developer tools, I inspected the image element and discovered the problem: the image URL wasn’t properly encoded.
+
+Original URL Link:
+href="assets/public/images/uploads/😼-#zatschi-#whoneedsfourlegs-1572600969477.jpg"
+
+I used CyberChef (from a previous project) to URL-encode the link. After replacing the original link with the encoded one in the developer tools and refreshing, the image loaded correctly.
+
+Encoded URL:
+href="assets%2Fpublic%2Fimages%2Fuploads%2F%F0%9F%98%BC%2D%23zatschi%2D%23whoneedsfourlegs%2D1572600969477%2Ejpg"
+
+Although this URL successfully displayed the image, it didn’t trigger the "Challenge Solved" notification. I suspected there might be an issue with how the encoding was applied. So, I modified the encoding slightly and i got the notificaion.
+
+Encoded URL:
+href="assets/public/images/uploads/😼-%23zatschi-%23whoneedsfourlegs-1572600969477.jpg"
+
+This version both rendered the image and triggered the mission completion. So i just changed the few things that i thought might be the main reasons why the links weren't working. Apparently both links worked so the first link is okay but I couldn't move to the next mission when I didn't get completed, so I sat down to try fix that issue and I did.
+
+
+**OUTCOME:**  Successfully retrieved and displayed the previously broken image by correcting the URL encoding.
