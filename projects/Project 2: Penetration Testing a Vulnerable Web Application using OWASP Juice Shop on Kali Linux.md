@@ -157,7 +157,28 @@ Although this URL successfully displayed the image, it didn’t trigger the "Cha
 Encoded URL:
 href="assets/public/images/uploads/😼-%23zatschi-%23whoneedsfourlegs-1572600969477.jpg"
 
-This version both rendered the image and triggered the mission completion. So i just changed the few things that i thought might be the main reasons why the links weren't working. Apparently both links worked so the first link is okay but I couldn't move to the next mission when I didn't get completed, so I sat down to try fix that issue and I did.
-
+This version both rendered the image and triggered the mission completion. So I just changed the few things that I thought might be the main reasons why the links weren't working. Apparently both links worked so the first link is okay but I couldn't move to the next mission when I didn't get completed, so I sat down to try fix that issue and I did.
 
 **OUTCOME:**  Successfully retrieved and displayed the previously broken image by correcting the URL encoding.
+
+
+## MISSION 10: OUTDATED ALLOWLIST
+**TYPE:** UNVALIDATED REDIRECTS
+**OBJECTIVE:** Redirect to one of the crypto currency addresses which are not promoted any longer.
+
+  For this mission, I used the browser’s Developer Tools, specifically the Debugger tab, I was able to find a few JavaScript files which I inspected, on inspection I searched for the cryptocurrency which I didn't get anything but then I searched for redirect and I was able to get a few results and one was leading to a blockchain site, I used that and that was how I completed the mission.
+
+**OUTCOME:** Successfully discovered and used an outdated redirect to complete the challenge by analyzing JavaScript files through the browser's debugger.
+
+## MISSION 11: REPETITIVE REGISTRATION
+**TYPE:** IMPROPER INPUT VALIDATION
+**OBJECTIVE:** Follow the DRY principle while registering a new user.
+
+  To start this mission, I first looked up the meaning of the DRY principle, which stands for "Don't Repeat Yourself." Initially, I attempted to register multiple different accounts, thinking repetition was part of the challenge, but that didn't solve the mission. I then inspected the registration page more carefully and realized the key was to avoid repeating information during registration. I attempted to register a new user with two different passwords in the "Password" and "Confirm Password" fields. Surprisingly, the registration succeeded, and the mission completion alert appeared. I also confirmed that I could log in using either of the two passwords I entered during registration.
+
+**OUTCOME:** Successfully completed the mission by registering a user with mismatched passwords, which exposed an input validation flaw that violated the DRY principle.
+
+## MISSION 12: WEB3 SANDBOX
+**TYPE:** BROKEN ACCESS CONTROL
+**OBJECTIVE:** Find an accidentally deployed code sandbox for writing smart contracts on the fly.
+
