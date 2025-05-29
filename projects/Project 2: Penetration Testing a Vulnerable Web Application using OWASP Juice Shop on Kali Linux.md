@@ -51,6 +51,7 @@ Ok so I can see all the missions on the OWASP Juice site and I would love to do 
 **TYPE:** Reconnaissance / Hidden Path Discovery
 **OBJECTIVE:** Access the hidden scoreboard page
 **METHOD:** Inspected page source
+**STARS:** ★
 
 You won't find a link to it in the navigation or sidebar. Finding the Score Board is itself one of the hacking challenges. This mission was easy because all I did was inspect the site and analyze the structure of the web page and I was able to score-board page, all I had to do was add score-board to the existing link and I got there 'http://localhost:3000/#/score-board' and that
 was all. Over here I can see all the web penetration missions.
@@ -59,6 +60,7 @@ was all. Over here I can see all the web penetration missions.
 ## MISSION 2: DOM XSS
 **TYPE:** XSS
 **OBJECTIVE:** Perform a DOM-based XSS attack
+**STARS:** ★
 
 **Payload USED:**
  <iframe src="javascript:alert(`xss`)">
@@ -79,6 +81,7 @@ Proves the app is vulnerable to script injection
 ## MISSION 3: BONUS PAYLOAD
 **TYPE:** XSS
 **OBJECTIVE:** Perform another DOM-based XSS attack
+**STARS:** ★
 
 **PAYLOAD USED:**
 <iframe style="border-radius:12px" 
@@ -93,6 +96,7 @@ Proves the app is vulnerable to script injection
 ## MISSION 4: BULLY CHATBOT
 **TYPE:** MISCELLANEOUS [Social Engineering / Automation]
 **OBJECTIVE:** Obtain a coupon code from the support chatbot.
+**STARS:** ★
 
   So what I did here was that i created an account so I could get access to the chatbot. Ok from what I'm seeing, I have to spam the chatbot to get the coupon. I created a Python script to run this task for me so I could just automate it, but somehow I'm running into this problem, tried fixing it yesterday and it affected my OS, to prevent time wastage, I'm just going to upload the script but it works. So after spamming 'coupon please' to the chatbot, it eventually told me the coupon code which was 'n<Mich7ZKp'. Did this on my Chrome browser after Firefox gave me a lot of issues.
 
@@ -102,6 +106,7 @@ Proves the app is vulnerable to script injection
 ## MISSION 5: PRIVACY POLICY
 **TYPE:** MISCELLANEOUS [Basic Recon]
 **OBJECTIVE:** Locate and read the privacy policy page.
+**STARS:** ★
 
 Ok, so all I had to do in this mission was to find the privacy policy page.
 
@@ -110,6 +115,7 @@ Ok, so all I had to do in this mission was to find the privacy policy page.
 ## MISSION 6: CONFIDENTIAL DOCUMENT
 **TYPE:** SENSITIVE DATA EXPOSURE
 **OBJECTIVE:** Discover and access a hidden confidential file.
+**STARS:** ★
 
   So I will be using a tool called dirb to scan the site. So dirb is a web content scanner. It looks for existing or hidden web objects by launching a dictionary attack on a web server and analyzing the responses. I chose to use dirb and not Burp Suite because dirb is faster and will do the attack faster.
 
@@ -123,6 +129,7 @@ Found a list of subdomains but I was able to get the confidential file at 'http:
 ## MISSSION 7: ERROR HANDLING
 **TYPE:** SECURITY MISCONFIGURATION
 **OBJECTIVE:** Provoke an error that is neither very gracefully nor consistently handled.
+**STARS:** ★
 
   I completed this mission by navigating to the Customer Feedback page. Although I explored multiple areas of the site, the error was successfully triggered upon visiting that specific page.
 
@@ -132,6 +139,7 @@ Found a list of subdomains but I was able to get the confidential file at 'http:
 ## MISSION 8: MASS DISPEL
 **TYPE:** MISCELLANEOUS
 **OBJECTIVE:** Close multiple "Challenge solved" notification in one go.
+**STARS:** ★
 
   This task took a bit of experimentation. I ultimately solved it by selecting all the active notifications and using the keyboard shortcut Shift + X (while the cancel button was highlighted), which cleared all the notifications in one action.
 
@@ -141,6 +149,7 @@ Found a list of subdomains but I was able to get the confidential file at 'http:
 ## MISSION 9: MISSING ENCODING:
 **TYPE:** Improper Input Validation
 **OBJECTIVE:** Retrieve the photo of Bjoern's cat in "melee combat-mode"
+**STARS:** ★
 
   During this mission, I noticed a broken image on the photo wall. Initially, I checked external sources like Twitter to confirm the issue wasn’t external. Then, using the browser’s developer tools, I inspected the image element and discovered the problem: the image URL wasn’t properly encoded.
 
@@ -165,6 +174,7 @@ This version both rendered the image and triggered the mission completion. So I 
 ## MISSION 10: OUTDATED ALLOWLIST
 **TYPE:** UNVALIDATED REDIRECTS
 **OBJECTIVE:** Redirect to one of the crypto currency addresses which are not promoted any longer.
+**STARS:** ★
 
   For this mission, I used the browser’s Developer Tools, specifically the Debugger tab, I was able to find a few JavaScript files which I inspected, on inspection I searched for the cryptocurrency which I didn't get anything but then I searched for redirect and I was able to get a few results and one was leading to a blockchain site, I used that and that was how I completed the mission.
 
@@ -173,6 +183,7 @@ This version both rendered the image and triggered the mission completion. So I 
 ## MISSION 11: REPETITIVE REGISTRATION
 **TYPE:** IMPROPER INPUT VALIDATION
 **OBJECTIVE:** Follow the DRY principle while registering a new user.
+**STARS:** ★
 
   To start this mission, I first looked up the meaning of the DRY principle, which stands for "Don't Repeat Yourself." Initially, I attempted to register multiple different accounts, thinking repetition was part of the challenge, but that didn't solve the mission. I then inspected the registration page more carefully and realized the key was to avoid repeating information during registration. I attempted to register a new user with two different passwords in the "Password" and "Confirm Password" fields. Surprisingly, the registration succeeded, and the mission completion alert appeared. I also confirmed that I could log in using either of the two passwords I entered during registration.
 
@@ -181,7 +192,33 @@ This version both rendered the image and triggered the mission completion. So I 
 ## MISSION 12: WEB3 SANDBOX
 **TYPE:** BROKEN ACCESS CONTROL
 **OBJECTIVE:** Find an accidentally deployed code sandbox for writing smart contracts on the fly.
+**STARS:** ★
 
   For this mission, I used the browser’s Developer Tools, specifically the Debugger, to inspect the pages file and review all the scripts loaded in the Main thread. While analyzing the pages files, I searched for the keyword "sandbox" and discovered a hidden URL path. I added the path to the main website URL and accessed it directly. This led me to an exposed smart contract editor interface, which confirmed the presence of an unprotected Web3 sandbox environment.
 
 **OUTCOME:** Successfully located and accessed the hidden smart contract editor, completing the mission.
+
+## MISSION 13: ZERO STARS
+**TYPE:** IMPROPER INPUT VALIDATION
+**OBJECTIVE:** Give a devastating zero-star feedback to the store.
+**STARS:** ★
+  
+  For this mission, I used two approaches to bypass the input validation enforcing a minimum rating of 1★:
+1. Browser Developer Tools:
+    I inspected the HTML elements of the feedback form and modified the rating slider input field by changing its min attribute value from 1 to 0. This allowed me     to select and submit a 0-star rating directly from the UI.
+
+2. Burp Suite:
+    I also intercepted the feedback submission request using Burp Suite and manually edited the rating parameter in the request body, setting its value to 0           before forwarding the request.
+
+Outcome:
+Successfully submitted a feedback with a 0-star rating, completing the mission and demonstrating improper input validation on both client and server sides.
+
+
+## MISSION 14: CAPTCHA BYPASS
+**TYPE:** BROKEN ANTI AUTOMATION
+**OBJECTIVE:** Submit 10 or more customer feedback within 20sec.
+**STARS:** ★★★
+
+  This mission was completed somewhat unexpectedly while I was working on a previous task. Out of curiosity, I began repeatedly clicking the submit button on the Customer Feedback page without solving any visible CAPTCHA or encountering rate-limiting controls. To my surprise, the system allowed multiple submissions in quick succession, and after a short while, the mission was marked as completed.
+
+**OUTCOME:** Successfully bypassed CAPTCHA or rate-limiting mechanisms by rapidly submitting feedback entries, indicating broken anti-automation protections.
