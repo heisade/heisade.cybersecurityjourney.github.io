@@ -182,3 +182,6 @@ This version both rendered the image and triggered the mission completion. So I 
 **TYPE:** BROKEN ACCESS CONTROL
 **OBJECTIVE:** Find an accidentally deployed code sandbox for writing smart contracts on the fly.
 
+  For this mission, I used the browser’s Developer Tools, specifically the Debugger, to inspect the pages file and review all the scripts loaded in the Main thread. While analyzing the pages files, I searched for the keyword "sandbox" and discovered a hidden URL path. I added the path to the main website URL and accessed it directly. This led me to an exposed smart contract editor interface, which confirmed the presence of an unprotected Web3 sandbox environment.
+
+**OUTCOME:** Successfully located and accessed the hidden smart contract editor, completing the mission.
